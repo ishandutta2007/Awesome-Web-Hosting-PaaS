@@ -69,6 +69,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - **[Dokku](https://github.com/dokku/dokku)**  
   Minimalist open-source Heroku alternative. Runs on a single server with Git push deployments and plugin ecosystem.
+- **[Peon](https://peon.sh)**  
+  Open-source self-hosted Docker PaaS for Git apps, Compose stacks, databases, and static sites on your own servers. [GitHub](https://github.com/Peon-sh/Peon).
 
 - **[YunoHost](https://github.com/YunoHost/yunohost)**  
   Server OS designed for easy self-hosting of web apps with a web-based admin panel and app catalog.
